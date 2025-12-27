@@ -2,8 +2,6 @@
 
 MapFit is a feature-enhanced reconstruction of the Mapty project by Jonas Schmedtmann. This web application allows users to track their workouts on an interactive map and includes the additional functionality to delete workouts, giving users greater control over their workout logs.
 
----
-
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
@@ -12,8 +10,6 @@ MapFit is a feature-enhanced reconstruction of the Mapty project by Jonas Schmed
 - [Future Improvements](#future-improvements)
 - [Acknowledgments](#acknowledgments)
 
----
-
 ## Features
 
 - Log workouts with location data (running, cycling, etc.).
@@ -21,8 +17,6 @@ MapFit is a feature-enhanced reconstruction of the Mapty project by Jonas Schmed
 - Automatically calculate distance, duration, and pace/speed based on user inputs.
 - Delete individual workouts with ease.
 - Persistent data storage using the browser’s local storage.
-
----
 
 ## Getting Started
 
@@ -37,7 +31,7 @@ Ensure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/SaifAbdelrazek011/mapfit.git
+   git clone https://github.com/a8k-legacy/mapfit.git
    ```
 
 2. Navigate to the project directory:
@@ -45,16 +39,7 @@ Ensure you have the following installed on your system:
    cd mapfit
    ```
 
-3. Open the `index.html` file in your browser to launch the app:
-   ```bash
-   open index.html
-   ```
-
-### Demo
-
-Check out the live demo of the application here: [MapFit Demo](https://dar-snake.github.io/MapFit/)
-
----
+3. Open the `index.html` file in your browser to launch the app.
 
 ## Usage
 
@@ -64,8 +49,6 @@ Check out the live demo of the application here: [MapFit Demo](https://dar-snake
 4. View the workout details displayed on the map and in the sidebar.
 5. To delete a workout, click the delete button next to the workout entry in the sidebar.
 
----
-
 ## Technologies Used
 
 - **HTML5**: Structuring the application’s layout.
@@ -73,8 +56,6 @@ Check out the live demo of the application here: [MapFit Demo](https://dar-snake
 - **JavaScript (ES6)**: Implementing application logic.
 - **Leaflet.js**: Rendering interactive maps.
 - **Local Storage**: Storing workout data persistently.
-
----
 
 ## Future Improvements
 
@@ -84,8 +65,6 @@ Check out the live demo of the application here: [MapFit Demo](https://dar-snake
 - Add graphs to visualize workout trends over time.
 - Implement synchronization with external fitness apps or devices.
 
----
-
 ## Acknowledgments
 
 - Jonas Schmedtmann for the original **Mapty** project, which served as the foundation for this project.
@@ -93,7 +72,7 @@ Check out the live demo of the application here: [MapFit Demo](https://dar-snake
 
 ---
 
-## License
+*Part of the A8K Legacy archive—a collection of early projects and learning experiments by [Saif Abdelrazek](https://saifabdelrazek.com).*
 
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
 
+This version is now accurate and maintains the project's integrity as a legacy learning artifact.
